@@ -1,0 +1,7 @@
+Multi-Agent QA Test Case Generator using CrewAI
+
+Built a modular multi-agent system using CrewAI with separate agent, task, and orchestration layers
+Designed AI agents to generate and format structured QA test cases for AI-based mobile features
+Integrated local LLM (Ollama Phi) for cost-efficient inference
+Applied prompt engineering to enforce deterministic structured outputs
+Designed scalable architecture with extensible tool integration
